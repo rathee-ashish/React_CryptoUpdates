@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React_CryptoUpdates/static/css/main.133d9e69.css",
-    "main.js": "/React_CryptoUpdates/static/js/main.12dbb4f4.js",
-    "static/media/logo.png": "/React_CryptoUpdates/static/media/logo.01f13022a28f4a186204.png",
-    "index.html": "/React_CryptoUpdates/index.html",
-    "main.133d9e69.css.map": "/React_CryptoUpdates/static/css/main.133d9e69.css.map",
-    "main.12dbb4f4.js.map": "/React_CryptoUpdates/static/js/main.12dbb4f4.js.map"
+    "main.css": "/static/css/main.133d9e69.css",
+    "main.js": "/static/js/main.8cb41060.js",
+    "static/media/logo.png": "/static/media/logo.01f13022a28f4a186204.png",
+    "index.html": "/index.html",
+    "main.133d9e69.css.map": "/static/css/main.133d9e69.css.map",
+    "main.8cb41060.js.map": "/static/js/main.8cb41060.js.map"
   },
   "entrypoints": [
     "static/css/main.133d9e69.css",
-    "static/js/main.12dbb4f4.js"
+    "static/js/main.8cb41060.js"
   ]
 }
