@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon{
+    margin-top: 8px;
+}
+
+.mustard{
+    color: 	#FFDB58;
+}
